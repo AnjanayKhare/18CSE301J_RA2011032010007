@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+
+
+body{
+    min-height: 600vh;
+    display: flex;
+    flex-direction: column;    
+}
+
+
+.b{
+    background-color: beige;
+}
+
+.c{
+    background: cadetblue;
+}
