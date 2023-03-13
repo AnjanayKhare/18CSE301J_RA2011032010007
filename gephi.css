@@ -1,0 +1,26 @@
+
+
+body{
+    display: flex;
+    background: blanchedalmond;
+}
+
+h2{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.img{
+    display: flex;
+    height: 90vw;
+    width: 90vw;
+    justify-content: center;
+    align-self: center;
+}
+
+
+
+.img1{
+    justify-content: center;
+    align-self: center;
+    flex-direction: column;
+}
